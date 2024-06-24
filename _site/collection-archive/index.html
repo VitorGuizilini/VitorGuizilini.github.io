@@ -166,12 +166,12 @@
 
   <div class="author__avatar">
     
-    	<img src="http://localhost:4000/images/profile.png" class="author__avatar" alt="Staff Research Scientist">
+    	<img src="http://localhost:4000/images/vitor_profile.jpg" class="author__avatar" alt="Vitor Guizilini <br> Staff Research Scientist">
     
   </div>
 
   <div class="author__content">
-    <h3 class="author__name">Staff Research Scientist</h3>
+    <h3 class="author__name">Vitor Guizilini <br> Staff Research Scientist</h3>
     
     
   </div>
@@ -348,7 +348,7 @@
     
 
     <a style="text-decoration:none;color:#000000;text-align:justify;"> <a href="https://arxiv.org/abs/2304.02797"> <img style="margin-right:10px" align="right" width="40" src="/images/arxiv.png"></a> <a href="https://github.com/TRI-ML/vidar"> <img style="margin-right:10px" align="right" width="40" src="/images/github.png"></a> <a href="https://www.youtube.com/watch?v=_tF692t0I9c"> <img style="margin-right:10px" align="right" width="40" src="/images/music.png"></a> </a>
-    <h2 class="archive__item-title"> <a href="https://sites.google.com/view/tri-sesc" style="text-decoration:none;color:#000000;text-align:justify;"> DeLiRa: Self-Supervised Depth, Light, and Radiance Fields </a> </h2>
+    <h2 class="archive__item-title"> <a href="https://sites.google.com/view/tri-delira" style="text-decoration:none;color:#000000;text-align:justify;"> DeLiRa: Self-Supervised Depth, Light, and Radiance Fields </a> </h2>
     
     
 
@@ -357,11 +357,11 @@
         
 
     <p align="justify"><a style="text-decoration:none; color:#000000; align:justify;"> Differentiable volumetric rendering is a powerful paradigm for 3D reconstruction and novel view synthesis. However, standard volume rendering approaches struggle with degenerate geometries in the case of limited viewpoint diversity, a common scenario in robotics applications. In this work, we propose to use the multi-view photometric objective from the self-supervised depth estimation literature as a geometric regularizer for volumetric rendering, significantly improving novel view synthesis without requiring additional information. Building upon this insight, we explore the explicit modeling of scene geometry using a generalist Transformer, jointly learning a radiance field as well as depth and light fields with a set of shared latent codes. We demonstrate that sharing geometric information across tasks is mutually beneficial, leading to improvements over single-task learning without an increase in network complexity. Our DeLiRa architecture achieves state-of-the-art results on the ScanNet benchmark, enabling high quality volumetric rendering as well as real-time novel view and depth synthesis in the limited viewpoint diversity setting. </a></p>
-<p><img src="/images/delira.gif" align="right" width="100%" margin-bottom="50px" /></p>
+<p><img src="/images/delira.gif" align="right" width="100%" style="margin:0 0 20px 0" /></p>
 
     
     
-      <p align="justify"><TT><br> @inproceedings{tri_delira, author = {Vitor Guizilini and Igor Vasiljevic and Jiading Fang and Rares Ambrus and Sergey Zakharov and Vincent Sitzmann and  Adrien Gaidon}, title = {DeLiRa: Self-Supervised Depth, Light, and Radiance Fields}, booktitle = {Proceedings of the International Conference on Computer Vision (ICCV)}, year = {2023}, } </TT></p>
+      <br><p align="justify"><TT><br> @inproceedings{tri_delira, author = {Vitor Guizilini and Igor Vasiljevic and Jiading Fang and Rares Ambrus and Sergey Zakharov and Vincent Sitzmann and Adrien Gaidon}, title = {DeLiRa: Self-Supervised Depth, Light, and Radiance Fields}, booktitle = {Proceedings of the International Conference on Computer Vision (ICCV)}, year = {2023} } </TT></p>
     
 
 
@@ -379,7 +379,7 @@
     
 
     <a style="text-decoration:none;color:#000000;text-align:justify;"> <a href="https://arxiv.org/abs/2303.14548"> <img style="margin-right:10px" align="right" width="40" src="/images/arxiv.png"></a> <a href="https://github.com/TRI-ML/VEDet"> <img style="margin-right:10px" align="right" width="40" src="/images/github.png"></a> </a>
-    <h2 class="archive__item-title"> <a style="text-decoration:none;color:#000000;text-align:justify;"> Viewpoint equivariance for multi-view 3d object detection </a> </h2>
+    <h2 class="archive__item-title"> <a style="text-decoration:none;color:#000000;text-align:justify;"> Viewpoint Equivariance for Multi-View 3D Object Detection </a> </h2>
     
     
 
@@ -388,11 +388,42 @@
         
 
     <p align="justify"><a style="text-decoration:none; color:#000000; align:justify;"> Autonomous vehicles and robots need to operate over a wide variety of scenarios in order to complete tasks efficiently and safely. Multi-camera self-supervised monocular depth estimation from videos is a promising way to reason about the environment, as it generates metrically scaled geometric predictions from visual data without requiring additional sensors. However, most works assume well-calibrated extrinsics to fully leverage this multi-camera setup, even though accurate and efficient calibration is still a challenging problem. In this work, we introduce a novel method for extrinsic calibration that builds upon the principles of self-supervised monocular depth and ego-motion learning. Our proposed curriculum learning strategy uses monocular depth and pose estimators with velocity supervision to estimate extrinsics, and then jointly learns extrinsic calibration along with depth and pose for a set of overlapping cameras rigidly attached to a moving vehicle. Experiments on a benchmark multi-camera dataset (DDAD) demonstrate that our method enables self-calibration in various scenes robustly and efficiently compared to a traditional vision-based pose estimation pipeline. Furthermore, we demonstrate the benefits of extrinsics self-calibration as a way to improve depth prediction via joint optimization. </a></p>
-<p><img src="/images/viewpoint.png" align="right" width="100%" margin-bottom="50px" /></p>
+<p><img src="/images/viewpoint.png" align="right" width="100%" style="margin:0 0 20px 0" /></p>
 
     
     
-      <p align="justify"><TT><br> @inproceedings{chen2023viewpoint, title={Viewpoint Equivariance for Multi-View 3D Object Detection}, author={Chen, Dian and Li, Jie and Guizilini, Vitor and Ambrus, Rares and Gaidon, Adrien}, booktitle = {Proceedings of the International Conference on Computer Vision and Pattern Recognition (CVPR)}, year={2023} } </TT></p>
+      <br><p align="justify"><TT><br> @inproceedings{chen2023viewpoint, title={Viewpoint Equivariance for Multi-View 3D Object Detection}, author={Chen, Dian and Li, Jie and Guizilini, Vitor and Ambrus, Rares and Gaidon, Adrien}, booktitle = {Proceedings of the International Conference on Computer Vision and Pattern Recognition (CVPR)}, year={2023} } </TT></p>
+    
+
+
+    
+  
+    
+      
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    
+
+    <a style="text-decoration:none;color:#000000;text-align:justify;"> <a href="https://arxiv.org/abs/2308.02153"> <img style="margin-right:10px" align="right" width="40" src="/images/arxiv.png"></a> <a href="https://github.com/TRI-ML/vidar"> <img style="margin-right:10px" align="right" width="40" src="/images/github.png"></a> </a>
+    <h2 class="archive__item-title"> <a href="https://sites.google.com/view/tri-sesc" style="text-decoration:none;color:#000000;text-align:justify;"> Robust Self-Supervised Extrinsic Self-Calibration </a> </h2>
+    
+    
+
+        
+          <p><i> <p> Takayuki Kanai, Igor Vasiljevic, Vitor Guizilini, Adrien Gaidon, Rares Ambrus <br> International Conference on Intelligent Robots and Systems  (<b>IROS 2023</b>) </p> </i>  </p>
+        
+
+    <p align="justify"><a style="text-decoration:none; color:#000000; align:justify;"> Autonomous vehicles and robots need to operate over a wide variety of scenarios in order to complete tasks efficiently and safely. Multi-camera self-supervised monocular depth estimation from videos is a promising way to reason about the environment, as it generates metrically scaled geometric predictions from visual data without requiring additional sensors. However, most works assume well-calibrated extrinsics to fully leverage this multi-camera setup, even though accurate and efficient calibration is still a challenging problem. In this work, we introduce a novel method for extrinsic calibration that builds upon the principles of self-supervised monocular depth and ego-motion learning. Our proposed curriculum learning strategy uses monocular depth and pose estimators with velocity supervision to estimate extrinsics, and then jointly learns extrinsic calibration along with depth and pose for a set of overlapping cameras rigidly attached to a moving vehicle. Experiments on a benchmark multi-camera dataset (DDAD) demonstrate that our method enables self-calibration in various scenes robustly and efficiently compared to a traditional vision-based pose estimation pipeline. Furthermore, we demonstrate the benefits of extrinsics self-calibration as a way to improve depth prediction via joint optimization. </a></p>
+<p><img src="/images/publications/sesc.gif" align="right" width="100%" style="margin:0 0 20px 0" /></p>
+
+    
+    
+      <br><p align="justify"><TT><br> @inproceedings{tri_sesc_iros23, author = {Takayuki Kanai and Igor Vasiljevic and Vitor    Guizilini and Adrien Gaidon and Rares Ambrus}, title = {Robust Self-Supervised Extrinsic Self-Calibration}, booktitle = {The IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, year = {2023} } </TT></p>
     
 
 
@@ -415,15 +446,77 @@
     
 
         
-          <p><i> <p> Shun Iwase, Katherine Liu, Vitor Guizilini, Adrien Gaidon, Kris Kitani, Rares Ambrus, Sergey Zakharov <br> </p> </i>  </p>
+          <p><i> <p> Shun Iwase, Katherine Liu, Vitor Guizilini, Adrien Gaidon, Kris Kitani, Rares Ambrus, Sergey Zakharov <br> <b>arXiv 2024</b> </p> </i>  </p>
         
 
     <p align="justify"><a style="text-decoration:none; color:#000000; align:justify;"> We present a 3D shape completion method that recovers the complete geometry of multiple objects in complex scenes from a single RGB-D image. Despite notable advancements in single object 3D shape completion, high-quality reconstructions in highly cluttered real-world multi-object scenes remains a challenge. To address this issue, we propose OctMAE, an architecture that leverages an Octree U-Net and a latent 3D MAE to achieve high-quality and near real-time multi-object shape completion through both local and global geometric reasoning. Because a naive 3D MAE can be computationally intractable and memory intensive even in the latent space, we introduce a novel occlusion masking strategy and adopt 3D rotary embeddings, which significantly improves the runtime and shape completion quality. To generalize to a wide range of objects in diverse scenes, we create a large-scale photorealistic dataset, featuring a diverse set of 12K 3D object models from the Objaverse dataset which are rendered in multi-object scenes with physics-based positioning. Our method outperforms the current state-of-the-art on both synthetic and real-world datasets and demonstrates a strong zero-shot capability. </a></p>
-<p><img src="/images/zeroshot.png" align="right" width="100%" margin-bottom="50px" /></p>
+<p><img src="/images/zeroshot.png" align="right" width="100%" style="margin:0 0 20px 0" /></p>
 
     
     
-      <p align="justify"><TT><br> @misc{iwase2024zeroshot, title={Zero-Shot Multi-Object Shape Completion}, author={Shun Iwase and Katherine Liu and Vitor Guizilini and Adrien Gaidon and Kris Kitani and Rares Ambrus and Sergey Zakharov}, year={2024}, eprint={2403.14628}, archivePrefix={arXiv}, primaryClass={cs.CV} }</TT></p>
+      <br><p align="justify"><TT><br> @misc{iwase2024zeroshot, title={Zero-Shot Multi-Object Shape Completion}, author={Shun Iwase and Katherine Liu and Vitor Guizilini and Adrien Gaidon and Kris Kitani and Rares Ambrus and Sergey Zakharov}, eprint={2403.14628}, archivePrefix={arXiv}, primaryClass={cs.CV} year={2024}, }</TT></p>
+    
+
+
+    
+  
+    
+      
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    
+
+    <a style="text-decoration:none;color:#000000;text-align:justify;"> <a href="https://arxiv.org/abs/2404.00815"> <img style="margin-right:10px" align="right" width="40" src="/images/arxiv.png"></a> <a href="https://github.com/hancyran/LiDAR-Diffusion"> <img style="margin-right:10px" align="right" width="40" src="/images/github.png"></a> </a>
+    <h2 class="archive__item-title"> <a href="https://lidar-diffusion.github.io" style="text-decoration:none;color:#000000;text-align:justify;"> Towards Realistic Scene Generation with LiDAR Diffusion Models </a> </h2>
+    
+    
+
+        
+          <p><i> <p> Haoxi Ran, Vitor Guizilini, Yue Wang <br> International Conference on Computer Vision and Pattern Recognition (<b>CVPR 2024</b>) </p> </i>  </p>
+        
+
+    <p align="justify"><a style="text-decoration:none; color:#000000; align:justify;"> Diffusion models (DMs) excel in photo-realistic image synthesis, but their adaptation to LiDAR scene generation poses a substantial hurdle. This is primarily because DMs operating in the point space struggle to preserve the curve-like patterns and 3D geometry of LiDAR scenes, which consumes much of their representation power. In this paper, we propose LiDAR Diffusion Models (LiDMs) to generate LiDAR-realistic scenes from a latent space tailored to capture the realism of LiDAR scenes by incorporating geometric priors into the learning pipeline. Our method targets three major desiderata: pattern realism, geometry realism, and object realism. Specifically, we introduce curve-wise compression to simulate real-world LiDAR patterns, point-wise coordinate supervision to learn scene geometry, and patch-wise encoding for a full 3D object context. With these three core designs, our method achieves competitive performance on unconditional LiDAR generation in 64-beam scenario and state of the art on conditional LiDAR generation, while maintaining high efficiency compared to point-based DMs (up to 107× faster). Furthermore, by compressing LiDAR scenes into a latent space, we enable the controllability of DMs with various conditions such as semantic maps, camera views, and text prompts. </a></p>
+<p><img src="/images/publications/lidm.gif" align="right" width="100%" style="margin:0 0 20px 0" /></p>
+
+    
+    
+      <br><p align="justify"><TT><br> @misc{ran2024lidm, author={Haoxi Ran and Vitor Guizilini and Yue Wang}, title={Towards Realistic Scene Generation with LiDAR Diffusion Models}, booktitle = {Proceedings of the International Conference on Computer Vision and Pattern Recognition (CVPR)}, year={2024} }</TT></p>
+    
+
+
+    
+  
+    
+      
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    
+
+    <a style="text-decoration:none;color:#000000;text-align:justify;"> <a href="https://arxiv.org/abs/2405.15891"> <img style="margin-right:10px" align="right" width="40" src="/images/arxiv.png"></a> </a>
+    <h2 class="archive__item-title"> <a href="https://lukoianov.com/sdi" style="text-decoration:none;color:#000000;text-align:justify;"> Score Distillation via Reparametrized DDIM </a> </h2>
+    
+    
+
+        
+          <p><i> <p> Artem Lukoianov, Haitz Borde, Kristjan Greenewald, Vitor  Guizilini, Timur Bagautdinov, Vincent Sitzmann, Justin Solomon <br> <b>arXiv 2024</b> </p> </i>  </p>
+        
+
+    <p align="justify"><a style="text-decoration:none; color:#000000; align:justify;"> While 2D diffusion models generate realistic, high-detail images, 3D shape generation methods like Score Distillation Sampling (SDS) built on these 2D diffusion models produce cartoon-like, over-smoothed shapes. To help explain this discrepancy, we show that the image guidance used in Score Distillation can be understood as the velocity field of a 2D denoising generative process, up to the choice of a noise term. In particular, after a change of variables, SDS resembles a high-variance version of Denoising Diffusion Implicit Models (DDIM) with a differently-sampled noise term: SDS introduces noise i.i.d. randomly at each step, while DDIM infers it from the previous noise predictions. This excessive variance can lead to over-smoothing and unrealistic outputs. We show that a better noise approximation can be recovered by inverting DDIM in each SDS update step. This modification makes SDS generative process for 2D images almost identical to DDIM. In 3D, it removes over-smoothing, preserves higher-frequency detail, and brings the generation quality closer to that of 2D samplers. Experimentally, our method achieves better or similar 3D generation quality compared to other state-of-the-art Score Distillation methods, all without training additional neural networks or multi-view supervision, and providing useful insights into relationship between 2D and 3D asset generation with diffusion models. </a></p>
+<p><img src="/images/publications/reparametrized.gif" align="right" width="100%" style="margin:0 0 20px 0" /></p>
+
+    
+    
+      <br><p align="justify"><TT><br> @misc{lukoianov2024score, title={Score Distillation via Reparametrized DDIM}, author={Artem Lukoianov and Haitz Sáez de Ocáriz Borde and Kristjan Greenewald and Vitor Campagnolo Guizilini and Timur Bagautdinov and Vincent Sitzmann and Justin Solomon}, eprint={2405.15891}, archivePrefix={arXiv}, primaryClass={cs.CV}, year={2024} }</TT></p>
     
 
 

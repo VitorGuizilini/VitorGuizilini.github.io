@@ -17,9 +17,9 @@ venue: '
     <a href="https://www.youtube.com/watch?v=Vj7DubNZnDo"><img style="float:right" width="40" src="/images/youtube.png"></a> &nbsp; &nbsp; &nbsp;
     <a href="http://www.g---
 title: '
-<a href="https://sites.google.com/view/tri-sesc" style="text-decoration:none;color:#000000;text-align:justify;"> 
-Robust Self-Supervised Extrinsic Self-Calibration
-</a>
+# <a href="https://sites.google.com/view/tri-sesc" style="text-decoration:none;color:#000000;text-align:justify;"> 
+# Robust Self-Supervised Extrinsic Self-Calibration
+# </a>
 '
 project: '
 '
