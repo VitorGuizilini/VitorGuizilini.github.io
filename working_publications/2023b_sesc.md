@@ -20,9 +20,9 @@ IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2023)
 '
 citation: '---
 title: '
-<a href="https://sites.google.com/view/tri-sesc" style="text-decoration:none;color:#000000;text-align:justify;"> 
-Robust Self-Supervised Extrinsic Self-Calibration
-</a>
+# <a href="https://sites.google.com/view/tri-sesc" style="text-decoration:none;color:#000000;text-align:justify;"> 
+# Robust Self-Supervised Extrinsic Self-Calibration
+# </a>
 '
 project: '
 '
