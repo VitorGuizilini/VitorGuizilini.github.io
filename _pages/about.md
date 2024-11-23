@@ -27,11 +27,11 @@ News
 Happy to announce two papers accepted to 3DV 2025!
 </p>
 <p align="justify">
-* <a href="https://www.arxiv.org/abs/2409.09896"><b>
+<b>*</b> <a href="https://www.arxiv.org/abs/2409.09896"><b>
 GRIN: Zero-Shot Metric Depth with Pixel-Level Diffusion
 </b></a></p>
 <p align="justify">
-* <a href="https://arxiv.org/abs/2409.03061"><b>
+<b>*</b> <a href="https://arxiv.org/abs/2409.03061"><b>
 Incorporating Dense Metric Depth into Neural 3D Representations for View Synthesis and Relighting
 </b></a><p align="justify">
 
@@ -42,11 +42,11 @@ Incorporating Dense Metric Depth into Neural 3D Representations for View Synthes
 Happy to announce two papers accepted to NeurIPS 2024!
 </p>
 <p align="justify">
-* <a href="https://arxiv.org/abs/2411.07326"><b> 
+<b>*</b> <a href="https://arxiv.org/abs/2411.07326"><b> 
 SE(3) Equivariant Ray Embeddings for Implicit Multi-View Depth Estimation
 </b></a></p>
 <p align="justify">
-* <a href="https://arxiv.org/abs/2405.15891"><b>
+<b>*</b> <a href="https://arxiv.org/abs/2405.15891"><b>
 Score Distillation via Reparametrized DDIM
 </b></a><p align="justify">
 
@@ -55,13 +55,44 @@ Score Distillation via Reparametrized DDIM
 06/17/2024: <b>Attending CVPR</b>
 </p>
 <p align="justify">
-* I'm co-organizing the <a href="https://equivision.github.io/">EquiVision</a> Workshop. If you are interested in leveraging symmetry in structured data to improve generalization, data efficiency and robustness, please check it out!
+Happy to announce two papers accepted to 3DV 2025!
+</p>
+<p align="justify">
+<b>*</b> <a href="https://www.arxiv.org/abs/2409.09896"><b>
+GRIN: Zero-Shot Metric Depth with Pixel-Level Diffusion
+</b></a></p>
+<p align="justify">
+<b>*</b> <a href="https://arxiv.org/abs/2409.03061"><b>
+Incorporating Dense Metric Depth into Neural 3D Representations for View Synthesis and Relighting
+</b></a><p align="justify">
+
+<p style="font-size:28px">
+07/25/2024: <b>NeurIPS Papers</b>
+</p>
+<p align="justify">
+Happy to announce two papers accepted to NeurIPS 2024!
+</p>
+<p align="justify">
+<b>*</b> <a href="https://arxiv.org/abs/2411.07326"><b> 
+SE(3) Equivariant Ray Embeddings for Implicit Multi-View Depth Estimation
+</b></a></p>
+<p align="justify">
+<b>*</b> <a href="https://arxiv.org/abs/2405.15891"><b>
+Score Distillation via Reparametrized DDIM
+</b></a><p align="justify">
+
+
+<p style="font-size:28px">
+06/17/2024: <b>Attending CVPR</b>
+</p>
+<p align="justify">
+<b>*</b> I'm co-organizing the <a href="https://equivision.github.io/">EquiVision</a> Workshop. If you are interested in leveraging symmetry in structured data to improve generalization, data efficiency and robustness, please check it out!
 <br>
 <br>
-* I'm giving a keynote talk at the <a href="https://jspenmar.github.io/MDEC/">MDEC</a> Workshop, if you are interested in monocular depth estimation and how it has evolved over the years, please check it out! <b>UPDATE:</b>  The slides for my talk can be found <a href="/files/An_ODE_to_MonODEpth.pdf">here</a>.
+<b>*</b> I'm giving a keynote talk at the <a href="https://jspenmar.github.io/MDEC/">MDEC</a> Workshop, if you are interested in monocular depth estimation and how it has evolved over the years, please check it out! <b>UPDATE:</b>  The slides for my talk can be found <a href="/files/An_ODE_to_MonODEpth.pdf">here</a>.
 <br>
 <br>
-* I'll be at the poster session for our latest paper: <a href="https://github.com/hancyran/LiDAR-Diffusion">Towards Realistic Scene Generation with LiDAR Diffusion Models</a>, so please stop by if you want to have a chat and learn more! It's on Thursday 5:00-6:30pm at Arch 4A-E, poster #12.
+<b>*</b> I'll be at the poster session for our latest paper: <a href="https://github.com/hancyran/LiDAR-Diffusion">Towards Realistic Scene Generation with LiDAR Diffusion Models</a>, so please stop by if you want to have a chat and learn more! It's on Thursday 5:00-6:30pm at Arch 4A-E, poster #12.
 
 <br>
 </p>
