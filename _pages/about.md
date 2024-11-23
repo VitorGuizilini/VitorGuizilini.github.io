@@ -23,13 +23,13 @@ News
 06/17-21/2024: CVPR
 </p>
 <p align="justify">
-I'm co-organizing the <a href="https://equivision.github.io/">EquiVision</a> Workshop. If you are interested in leveraging symmetry in structured data to improve generalization, data efficiency and robustness, please check it out!
+* I'm co-organizing the <a href="https://equivision.github.io/">EquiVision</a> Workshop. If you are interested in leveraging symmetry in structured data to improve generalization, data efficiency and robustness, please check it out!
 <br>
 <br>
-I'm giving a keynote talk at the <a href="https://jspenmar.github.io/MDEC/">MDEC</a> Workshop, if you are interested in monocular depth estimation and how it has evolved over the years, please check it out! <b>UPDATE:</b>  The slides for my talk can be found <a href="/files/An_ODE_to_MonODEpth.pdf">here</a>.
+* I'm giving a keynote talk at the <a href="https://jspenmar.github.io/MDEC/">MDEC</a> Workshop, if you are interested in monocular depth estimation and how it has evolved over the years, please check it out! <b>UPDATE:</b>  The slides for my talk can be found <a href="/files/An_ODE_to_MonODEpth.pdf">here</a>.
 <br>
 <br>
-I'll be at the poster session for our latest paper: <a href="https://github.com/hancyran/LiDAR-Diffusion">Towards Realistic Scene Generation with LiDAR Diffusion Models</a>, so please stop by if you want to have a chat and learn more! It's on Thursday 5:00-6:30pm at Arch 4A-E, poster #12.
+* I'll be at the poster session for our latest paper: <a href="https://github.com/hancyran/LiDAR-Diffusion">Towards Realistic Scene Generation with LiDAR Diffusion Models</a>, so please stop by if you want to have a chat and learn more! It's on Thursday 5:00-6:30pm at Arch 4A-E, poster #12.
 
 <br>
 </p>
