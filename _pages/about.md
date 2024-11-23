@@ -19,8 +19,40 @@ I am currently a Staff Research Scientist at the Toyota Research Institute, wher
 <p style="font-size:36px">
 News
 </p>
+
 <p style="font-size:28px">
-06/17/2024: CVPR
+09/05/2024: <b>3DV Papers</b>
+</p>
+<p align="justify">
+Happy to announce two papers accepted to 3DV 2025!
+</p>
+<p align="justify">
+* <a href="https://www.arxiv.org/abs/2409.09896"><b>
+GRIN: Zero-Shot Metric Depth with Pixel-Level Diffusion
+</b></a></p>
+<p align="justify">
+* <a href="https://arxiv.org/abs/2409.03061"><b>
+Incorporating Dense Metric Depth into Neural 3D Representations for View Synthesis and Relighting
+</b></a><p align="justify">
+
+<p style="font-size:28px">
+09/05/2024: <b>NeurIPS Papers</b>
+</p>
+<p align="justify">
+Happy to announce two papers accepted to NeurIPS 2024!
+</p>
+<p align="justify">
+* <a href="https://arxiv.org/abs/2411.07326"><b> 
+SE(3) Equivariant Ray Embeddings for Implicit Multi-View Depth Estimation
+</b></a></p>
+<p align="justify">
+* <a href="https://arxiv.org/abs/2405.15891"><b>
+Score Distillation via Reparametrized DDIM
+</b></a><p align="justify">
+
+
+<p style="font-size:28px">
+06/17/2024: <b>Attending CVPR</b>
 </p>
 <p align="justify">
 * I'm co-organizing the <a href="https://equivision.github.io/">EquiVision</a> Workshop. If you are interested in leveraging symmetry in structured data to improve generalization, data efficiency and robustness, please check it out!
