@@ -20,7 +20,7 @@ I am currently a Staff Research Scientist at the Toyota Research Institute, wher
 News
 </p>
 <p style="font-size:28px">
-06/17-21/2024: CVPR
+06/17/2024: CVPR
 </p>
 <p align="justify">
 * I'm co-organizing the <a href="https://equivision.github.io/">EquiVision</a> Workshop. If you are interested in leveraging symmetry in structured data to improve generalization, data efficiency and robustness, please check it out!
