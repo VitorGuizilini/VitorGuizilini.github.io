@@ -21,7 +21,25 @@ News
 </p>
 
 <p style="font-size:28px">
-11/05/2024: <b>3DV Papers</b>
+12/10/2024: <b>Attending NeurIPS</b>
+</p>
+<p align="justify">
+I'll be attending NeurIPS in Vancouver this year! Some highlights of what I'll be doing:
+
+<b>*</b> TRI will have a booth, so if you would like to learn more about what we're up to these days make sure to stop by!
+
+<b>*</b> I'll be presenting 
+<a href="https://arxiv.org/abs/2405.15891">
+<b>Score Distillation via Reparametrized DDIM</b>
+</a>, done in collaboration with MIT as part of our University 2.0 program (Thu, Dec 12, 11:00, 3 East).
+
+<b>*</b> I'll be presenting 
+<a href="https://arxiv.org/abs/2411.07326">
+<b>SE(3) Equivariant Ray Embeddings for Implicit Multi-View Depth Estimation</b>
+</a>, done in collaboration with UPenn as part of the TRI internship program (Fri, Dec 13, 16:30, 6 East).
+
+<p style="font-size:28px">
+11/05/2024: <b>3DV Accepted Papers</b>
 </p>
 <p align="justify">
 Happy to announce two papers accepted to 3DV 2025!
@@ -36,7 +54,23 @@ Incorporating Dense Metric Depth into Neural 3D Representations for View Synthes
 </b></a><p align="justify">
 
 <p style="font-size:28px">
-09/25/2024: <b>NeurIPS Papers</b>
+09/29/2024: <b>Papers at ECCV</b>
+</p>
+<p align="justify">
+Unfortunately I won't be able to make it to ECCV this year, but if you are around make sure to look up these papers!
+</p>
+<p align="justify">
+<b>*</b> <a href="https://arxiv.org/abs/2404.01300"><b> 
+NeRF-MAE: Masked AutoEncoders for Self-Supervised 3D Representation Learning for Neural Radiance Fields
+</b></a></p>
+<p align="justify">
+<b>*</b> <a href="https://arxiv.org/abs/2403.14628"><b>
+Zero-Shot Multi-Object Scene Completion
+</b></a><p align="justify">
+
+
+<p style="font-size:28px">
+09/25/2024: <b>NeurIPS Accepted Papers</b>
 </p>
 <p align="justify">
 Happy to announce two papers accepted to NeurIPS 2024!
@@ -55,16 +89,15 @@ Score Distillation via Reparametrized DDIM
 06/17/2024: <b>Attending CVPR</b>
 </p>
 <p align="justify">
-<b>*</b> I'm co-organizing the <a href="https://equivision.github.io/">EquiVision</a> Workshop. If you are interested in leveraging symmetry in structured data to improve generalization, data efficiency and robustness, please check it out!
-<br>
-<br>
-<b>*</b> I'm giving a keynote talk at the <a href="https://jspenmar.github.io/MDEC/">MDEC</a> Workshop, if you are interested in monocular depth estimation and how it has evolved over the years, please check it out! <b>UPDATE:</b>  The slides for my talk can be found <a href="/files/An_ODE_to_MonODEpth.pdf">here</a>.
-<br>
-<br>
-<b>*</b> I'll be at the poster session for our latest paper: <a href="https://github.com/hancyran/LiDAR-Diffusion">Towards Realistic Scene Generation with LiDAR Diffusion Models</a>, so please stop by if you want to have a chat and learn more! It's on Thursday 5:00-6:30pm at Arch 4A-E, poster #12.
-
-<br>
+I'll be attending CVPR in Seattle this year! Some highlights of what I'll be doing:
 </p>
+<p align="justify">
+<b>*</b> I'm co-organizing the <a href="https://equivision.github.io/">EquiVision</a> Workshop. If you are interested in leveraging symmetry in structured data to improve generalization, data efficiency and robustness, please check it out!
+<br><br>
+<b>*</b> I'm giving a keynote talk at the <a href="https://jspenmar.github.io/MDEC/">MDEC</a> Workshop, if you are interested in monocular depth estimation and how it has evolved over the years, please check it out! <b>UPDATE:</b>  The slides for my talk can be found <a href="/files/An_ODE_to_MonODEpth.pdf">here</a>.
+<br><br>
+<b>*</b> I'll be at the poster session for our latest paper: <a href="https://github.com/hancyran/LiDAR-Diffusion">Towards Realistic Scene Generation with LiDAR Diffusion Models</a>, so please stop by if you want to have a chat and learn more! It's on Thursday 5:00-6:30pm at Arch 4A-E, poster #12.
+<br></p>
 
 <!-- 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
