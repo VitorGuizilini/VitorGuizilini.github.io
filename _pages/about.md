@@ -25,14 +25,16 @@ News
 </p>
 <p align="justify">
 I'll be attending NeurIPS in Vancouver this year! Some highlights of what I'll be doing:
-
+<p align="justify">
 <b>*</b> TRI will have a booth, so if you would like to learn more about what we're up to these days make sure to stop by!
-
+</p>
+<p align="justify">
 <b>*</b> I'll be presenting 
 <a href="https://arxiv.org/abs/2405.15891">
 <b>Score Distillation via Reparametrized DDIM</b>
 </a>, done in collaboration with MIT as part of our University 2.0 program (Thu, Dec 12, 11:00, 3 East).
-
+</p>
+<p align="justify">
 <b>*</b> I'll be presenting 
 <a href="https://arxiv.org/abs/2411.07326">
 <b>SE(3) Equivariant Ray Embeddings for Implicit Multi-View Depth Estimation</b>
