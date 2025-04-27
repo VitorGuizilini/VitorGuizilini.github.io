@@ -24,7 +24,9 @@ News
 3/25-28/2025: <b>Attending 3DV</b>
 </p>
 <p align="justify">
-I'll be attending 3DV in Singapore this year, and will be giving an oral presentation (+ poster) of our latest work on zero-shot metric monocular depth estimation: <a href=https://arxiv.org/abs/2409.09896>GRIN: Zero-Shot Metric Depth with Pixel-Level Diffusion</a>. Make sure to check it out! 
+I'll be attending 3DV in Singapore this year, and will be giving an oral presentation (+ poster) of our latest work on zero-shot metric monocular depth estimation: 
+<a href="https://arxiv.org/abs/2409.09896">
+<b>GRIN: Zero-Shot Metric Depth with Pixel-Level Diffusion</b></a>. Make sure to check it out! 
 
 <p style="font-size:28px">
 12/10/2024: <b>Attending NeurIPS</b>
