@@ -21,6 +21,13 @@ News
 </p>
 
 <p style="font-size:28px">
+4/24/2025: <b>PosedDroid released</b>
+</p>
+<p align="justify">
+New and improved extrinsics calibration (camera-to-camera and camera-to-base) for the DROID dataset. More information <a href="https://medium.com/@zubair_irshad/scaling-up-automatic-camera-calibration-for-droid-dataset-4ddfc45361d3">
+<b>here</b></a>. I hope this effort facilitates the development of new methods that care about scene geometry and camera information!
+
+<p style="font-size:28px">
 3/25-28/2025: <b>Attending 3DV</b>
 </p>
 <p align="justify">
