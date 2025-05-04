@@ -16,7 +16,7 @@ venue: '
 <p>
 Wei Chow, Jiageng Mao, Boyi Li, Daniel Seita, Vitor Guizilini, Yue Wang
 <br>
-<b>CVPR 2025</b>
+<b>ICLR 2025</b>
 </p>
 '
 citation: '

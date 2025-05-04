@@ -16,7 +16,7 @@ venue: '
 <p>
 Haoxi Ran, Vitor Guizilini, Yue Wang
 <br>
-International Conference on Computer Vision and Pattern Recognition (<b>CVPR 2024</b>)
+<b>CVPR 2024</b>
 </p>
 '
 citation: '

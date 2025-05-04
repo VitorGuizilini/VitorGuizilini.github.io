@@ -16,7 +16,7 @@ venue: '
 <p>
 Vitor Guizilini, Igor Vasiljevic, Jiading Fang, Rares Ambrus, Sergey Zakharov, Vincent Sitzmann, Adrien Gaidon
 <br>
-International Conference on Computer Vision (<b>ICCV 2023</b>)
+<b>ICCV 2023</b>
 </p>
 '
 citation: '

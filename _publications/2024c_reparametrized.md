@@ -16,7 +16,7 @@ venue: '
 <p>
 Artem Lukoianov, Haitz Borde, Kristjan Greenewald, Vitor  Guizilini, Timur Bagautdinov, Vincent Sitzmann, Justin Solomon
 <br>
-Conference on Neural Information and Processing Systems (<b>NeurIPS 2024</b>)
+<b>NeurIPS 2024</b>
 </p>
 '
 citation: '

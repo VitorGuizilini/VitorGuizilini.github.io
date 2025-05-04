@@ -16,7 +16,7 @@ venue: '
 <p>
 Jiahao Shao, Yuanbo Yang, Hongyu Zhou, Youmin Zhang, Yujun Shen, Vitor Guizilini, Yue Wang, Matteo Poggi, Yiyi Liao
 <br>
-International Conference on Computer Vision and Pattern Recognition (<b>CVPR 2025</b>)
+<b>CVPR 2025</b>
 </p>
 '
 citation: '

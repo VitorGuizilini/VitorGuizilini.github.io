@@ -16,7 +16,7 @@ venue: '
 <p>
 Dian Chen, Jie Li, Vitor Guizilini, Rares Ambrus, Adrien Gaidon
 <br>
-International Conference on Computer Vision and Pattern Recognition (<b>CVPR 2023</b>)
+<b>CVPR 2023</b>
 </p>
 '
 citation: '
