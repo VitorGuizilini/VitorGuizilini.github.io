@@ -16,17 +16,15 @@ venue: '
 <p>
 Artem Lukoianov, Haitz Borde, Kristjan Greenewald, Vitor  Guizilini, Timur Bagautdinov, Vincent Sitzmann, Justin Solomon
 <br>
-<b>arXiv 2024</b>
+Conference on Neural Information and Processing Systems (<b>NeurIPS 2024</b>)
 </p>
 '
 citation: '
-@misc{lukoianov2024score,
-      title={Score Distillation via Reparametrized DDIM}, 
+@inproceedings{lukoianov2024score,
       author={Artem Lukoianov and Haitz Sáez de Ocáriz Borde and Kristjan Greenewald and Vitor Campagnolo Guizilini and Timur Bagautdinov and Vincent Sitzmann and Justin Solomon},
-      eprint={2405.15891},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      year={2024}
+      title={Score Distillation via Reparametrized DDIM}, 
+      booktitle = {Proceedings of the Conference on Neural Information and Processing Systems (NeurIPS)},
+      year={2024}      
 }'
 links: '
 <a href="https://arxiv.org/abs/2405.15891">

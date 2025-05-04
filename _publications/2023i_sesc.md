@@ -16,7 +16,7 @@ venue: '
 <p>
 Takayuki Kanai, Igor Vasiljevic, Vitor Guizilini, Adrien Gaidon, Rares Ambrus
 <br>
-International Conference on Intelligent Robots and Systems  (<b>IROS 2023</b>)
+International Conference on Intelligent Robots and Systems (<b>IROS 2023</b>)
 </p>
 '
 citation: '

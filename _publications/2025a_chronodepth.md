@@ -16,11 +16,11 @@ venue: '
 <p>
 Jiahao Shao, Yuanbo Yang, Hongyu Zhou, Youmin Zhang, Yujun Shen, Vitor Guizilini, Yue Wang, Matteo Poggi, Yiyi Liao
 <br>
-<b>CVPR 2025</b>
+International Conference on Computer Vision and Pattern Recognition (<b>CVPR 2025</b>)
 </p>
 '
 citation: '
-@proceedings{tri-chronodepth,
+@inproceedings{tri-chronodepth,
       author={Jiahao Shao and Yuanbo Yang and Hongyu Zhou and Youmin Zhang and Yujun Shen and Vitor Guizilini and Yue Wang and Matteo Poggi and Yiyi Liao},
       title={Learning Temporally Consistent Video Depth from Video Diffusion Priors}, 
       booktitle = {Proceedings of the International Conference on Computer Vision and Pattern Recognition (CVPR)},

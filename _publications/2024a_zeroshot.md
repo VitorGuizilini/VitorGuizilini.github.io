@@ -16,7 +16,7 @@ venue: '
 <p>
 Shun Iwase, Katherine Liu, Vitor Guizilini, Adrien Gaidon, Kris Kitani, Rares Ambrus, Sergey Zakharov
 <br>
-<b>arXiv 2024</b>
+European Conference on Computer Vision (<b>ECCV 2024</b>)
 </p>
 '
 citation: '
