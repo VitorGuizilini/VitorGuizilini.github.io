@@ -16,7 +16,7 @@ venue: '
 <p>
 Shun Iwase, Zubair Irshad, Katherine Liu, Vitor Guizilini, Robert Lee, Takuya Ikeda, Ayako Amma, Koichi Nishiwaki, Kris Kitani, Rares Ambrus, Sergey Zakharov
 <br>
-<b>arXiv 2025</b>
+<b>CVPR 2025</b>
 </p>
 '
 citation: '
