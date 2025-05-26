@@ -29,7 +29,7 @@ citation: '
 
 
 links: '
-<a href=""https://arxiv.org/abs/2504.10857">
+<a href="https://arxiv.org/abs/2504.10857">
 <img style="margin-right:10px" align="right" width="40" src="/images/arxiv.png"></a>
 '
 ---
