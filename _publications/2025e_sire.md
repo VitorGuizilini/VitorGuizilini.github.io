@@ -20,7 +20,7 @@ Cameron Smith, Basile Van Hoorick, Vitor Guizilini, Yue Wang
 </p>
 '
 citation: '
-@misc{tri-humanoid,
+@misc{tri-sire,
       title={SIRE: SE(3) Intrinsic Rigidity Embeddings}, 
       author={Cameron Smith and Basile Van Hoorick and Vitor Guizilini and Yue Wang},
       eprint={2503.07739},
