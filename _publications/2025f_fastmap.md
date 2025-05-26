@@ -1,37 +1,39 @@
 ---
 title: '
-<a href="https://arxiv.org/abs/2503.07739" style="text-decoration:none;color:#000000;text-align:justify;"> 
-SIRE: SE(3) Intrinsic Rigidity Embeddings
+<a href="https://github.com/pals-ttic/fastmap" style="text-decoration:none;color:#000000;text-align:justify;"> 
+FastMap: Revisiting Dense and Scalable Structure from Motion
 </a>
 '
 project: '
 '
 collection: publications
 excerpt: '<p align=justify><a style="text-decoration:none; color:#000000; align:justify;">
-Motion serves as a powerful cue for scene perception and understanding by separating independently moving surfaces and organizing the physical world into distinct entities. We introduce SIRE, a self-supervised method for motion discovery of objects and dynamic scene reconstruction from casual scenes by learning intrinsic rigidity embeddings from videos. Our method trains an image encoder to estimate scene rigidity and geometry, supervised by a simple 4D reconstruction loss: a least-squares solver uses the estimated geometry and rigidity to lift 2D point track trajectories into SE(3) tracks, which are simply re-projected back to 2D and compared against the original 2D trajectories for supervision. Crucially, our framework is fully end-to-end differentiable and can be optimized either on video datasets to learn generalizable image priors, or even on a single video to capture scene-specific structure - highlighting strong data efficiency. We demonstrate the effectiveness of our rigidity embeddings and geometry across multiple settings, including downstream object segmentation, SE(3) rigid motion estimation, and self-supervised depth estimation. Our findings suggest that SIRE can learn strong geometry and motion rigidity priors from video data, with minimal supervision.
+We propose FastMap, a new global structure from motion method focused on speed and simplicity. Previous methods like COLMAP and GLOMAP are able to estimate high-precision camera poses, but suffer from poor scalability when the number of matched keypoint pairs becomes large. We identify two key factors leading to this problem: poor parallelization and computationally expensive optimization steps. To overcome these issues, we design an SfM framework that relies entirely on GPU-friendly operations, making it easily parallelizable. Moreover, each optimization step runs in time linear to the number of image pairs, independent of keypoint pairs or 3D points. Through extensive experiments, we show that FastMap is faster than COLMAP and GLOMAP on large-scale scenes with comparable pose accuracy.
 </a></p>
-<p><img src="/images/publications/humanoid.png" align="right" width="100%" style="margin:0 0 20px 0"></p>
+<p><img src="/images/publications/fastmap.png" align="right" width="100%" style="margin:0 0 20px 0"></p>
 '
 venue: '
 <p>
-Cameron Smith, Basile Van Hoorick, Vitor Guizilini, Yue Wang
+Jiahao Li, Haochen Wang, Muhammad Zubair Irshad, Igor Vasiljevic, Matthew R. Walter, Vitor Campagnolo Guizilini, Greg Shakhnarovich
 <br>
 <b>arXiv 2025</b>
 </p>
 '
 citation: '
-@misc{tri-humanoid,
-      title={SIRE: SE(3) Intrinsic Rigidity Embeddings}, 
-      author={Cameron Smith and Basile Van Hoorick and Vitor Guizilini and Yue Wang},
-      eprint={2503.07739},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      year={2025}
+@article{2505.04612v1,
+    Author        = {Jiahao Li and Haochen Wang and Muhammad Zubair Irshad and Igor Vasiljevic and Matthew R. Walter and Vitor Campagnolo Guizilini and Greg Shakhnarovich},
+    Title         = {FastMap: Revisiting Dense and Scalable Structure from Motion},
+    Eprint        = {2505.04612v1},
+    ArchivePrefix = {arXiv},
+    PrimaryClass  = {cs.CV},
+    Year          = {2025},
+    Month         = {May},
+    Url           = {http://arxiv.org/abs/2505.04612v1},
+    File          = {2505.04612v1.pdf}
 }'
 
-
 links: '
-<a href="https://arxiv.org/abs/2412.14172">
+<a href="https://arxiv.org/abs/2505.04612">
 <img style="margin-right:10px" align="right" width="40" src="/images/arxiv.png"></a>
 '
 ---

@@ -20,11 +20,11 @@ Shun Iwase, Zubair Irshad, Katherine Liu, Vitor Guizilini, Robert Lee, Takuya Ik
 </p>
 '
 citation: '
-@article{chow2025physbench,
-  title={PhysBench: Benchmarking and Enhancing Vision-Language Models for Physical World Understanding},
-  author={Chow, Wei and Mao, Jiageng and Li, Boyi and Seita, Daniel and Guizilini, Vitor and Wang, Yue},
-  journal={arXiv preprint arXiv:2501.16411},
-  year={2025}
+@InProceedings{Iwase_CVPR_2025,
+  author = {Iwase, Shun and, Irshad, Zubair and Liu, Katherine and Guizilini, Vitor and Lee, Robert and Ikeda, Takuya and Amma, Ayako and Nishiwaki, Koichi and Kitani, Kris and Ambruș, Rareș and Zakharov, Sergey},
+  title = {ZeroGrasp: Zero-Shot Shape Reconstruction Enabled Robotic Grasping},
+  booktitle = {CVPR},
+  year = {2025}
 }'
 
 
