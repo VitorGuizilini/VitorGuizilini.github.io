@@ -1,6 +1,6 @@
 ---
 title: '
-<a href="http://sh8.io/#/zerograsp" style="text-decoration:none;color:#000000;text-align:justify;"> 
+<a href="https://arxiv.org/abs/2504.10857" style="text-decoration:none;color:#000000;text-align:justify;"> 
 ZeroGrasp: Zero-Shot Shape Reconstruction Enabled Robotic Grasping
 </a>
 '
