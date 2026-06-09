@@ -1,8 +1,6 @@
 ---
 title: '
-<a href="https://junjieye.com/RoboDream" style="text-decoration:none;color:#000000;text-align:justify;"> 
 RoboDream: Compositional World Models for Scalable Robot Data Synthesis
-</a>
 '
 project: '
 '
@@ -16,7 +14,7 @@ venue: '
 <p>
 Junjie Ye, Rong Xue, Basile Van Hoorick, Runhao Li, Harshitha Rajaprakash, Pavel Tokmakov, Muhammad Zubair Irshad, Vitor Guizilini, Yue Wang
 <br>
-<b>CVPR 2025</b>
+<b>arXiv 2026</b>
 </p>
 '
 citation: '
@@ -28,11 +26,13 @@ citation: '
       archivePrefix={arXiv},
       primaryClass={cs.RO},
       url={https://arxiv.org/abs/2606.02577}, 
-}'
-
+}
+'
 
 links: '
 <a href="https://arxiv.org/abs/2606.02577">
-<img style="margin-right:10px" align="right" width="40" src="/images/arxiv.png"></a>
+<img style="margin-right:10px" align="right" width="40" src="/images/icons/arxiv.png"></a>
+<a href="https://junjieye.com/RoboDream/">
+<img style="margin-right:10px" align="right" width="40" src="/images/icons/project.png"></a>
 '
 ---
