@@ -13,7 +13,7 @@ About Me
 
 <p align="justify">
 I am currently a Staff Research Scientist at the Toyota Research Institute, where I lead the Learning from Videos (LFV) research direction, as well as oversee several efforts towards the productization of this research, and participate in a wide range of university collaborations. 
-This includes self-supervised learning, depth estimation, optical flow, scene flow, keypoints, multi-view geometry, camera calibration, and so forth. 
+This includes video generation, world models, 4D representations, multi-modal learning, multi-view goemetry, video policies, and so forth. 
 I received my PhD at the University of Sydney, under the supervision of Prof. Fabio Ramos, and did my PostDoc studies at the same institution. 
 When I am not doing all these things, I enjoy spending time with my wife, playing the flute (mostly transverse and tin whistle), role playing games (I wrote a book about my D&D campaign, if you read Portuguese you can buy it <a href="https://www.amazon.com/Trei-Hist%C3%B3ria-Mundo-Portuguese-Brasil/dp/8576797232">here</a>), and reading fantasy and sci-fi novels (huge Tolkien, Sanderson, Egan, and Baxter fan). 
 </p>
