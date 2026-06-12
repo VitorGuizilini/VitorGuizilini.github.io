@@ -32,5 +32,7 @@ citation: '
 links: '
 <a href="https://arxiv.org/abs/2603.06600">
 <img style="margin-right:10px" align="right" width="40" src="/images/icons/arxiv.png"></a>
+<a href="https://psi-lab.ai/DreamPlan/">
+<img style="margin-right:10px" align="right" width="40" src="/images/icons/project.png"></a>
 '
 ---
