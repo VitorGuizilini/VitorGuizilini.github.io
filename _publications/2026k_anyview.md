@@ -17,9 +17,6 @@ Basile Van Hoorick, Dian Chen, Shun Iwase, Pavel Tokmakov, Muhammad Zubair Irsha
 <b>arXiv 2026</b>
 </p>
 '
-citation: '
-'
-
 links: '
 <a href="https://www.youtube.com/watch?v=FX875XBcfMY">
 <img style="margin-right:10px" align="right" width="40" src="/images/icons/music.png"></a>
