@@ -21,6 +21,8 @@ citation: '
 '
 
 links: '
+<a href="https://www.youtube.com/watch?v=FX875XBcfMY">
+<img style="margin-right:10px" align="right" width="40" src="/images/icons/music.png"></a>
 <a href="https://arxiv.org/abs/2601.16982">
 <img style="margin-right:10px" align="right" width="40" src="/images/icons/arxiv.png"></a>
 <a href="https://tri-ml.github.io/AnyView/">
