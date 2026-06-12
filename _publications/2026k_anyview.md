@@ -18,15 +18,6 @@ Basile Van Hoorick, Dian Chen, Shun Iwase, Pavel Tokmakov, Muhammad Zubair Irsha
 </p>
 '
 citation: '
-@misc{tri_anyview,
-      title={AnyView: Synthesizing Any Novel View in Dynamic Scenes}, 
-      author={Basile Van Hoorick and Dian Chen and Shun Iwase and Pavel Tokmakov and Muhammad Zubair Irshad and Igor Vasiljevic and Swati Gupta and Fangzhou Cheng and Sergey Zakharov and Vitor Campagnolo Guizilini},
-      year={2026},
-      eprint={2601.16982},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2601.16982}, 
-}
 '
 
 links: '
