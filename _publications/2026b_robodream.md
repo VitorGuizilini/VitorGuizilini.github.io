@@ -18,7 +18,7 @@ Junjie Ye, Rong Xue, Basile Van Hoorick, Runhao Li, Harshitha Rajaprakash, Pavel
 </p>
 '
 citation: '
-@misc{ye2026robodreamcompositionalworldmodels,
+@misc{tri_robodream,
       title={RoboDream: Compositional World Models for Scalable Robot Data Synthesis}, 
       author={Junjie Ye and Rong Xue and Basile Van Hoorick and Runhao Li and Harshitha Rajaprakash and Pavel Tokmakov and Muhammad Zubair Irshad and Vitor Guizilini and Yue Wang},
       year={2026},
