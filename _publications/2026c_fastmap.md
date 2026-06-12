@@ -14,7 +14,7 @@ venue: '
 <p>
 Jiahao Li, Haochen Wang, Muhammad Zubair Irshad, Igor Vasiljevic, Matthew R. Walter, Vitor Campagnolo Guizilini, Greg Shakhnarovich
 <br>
-<b>3DV 2026</b>
+<b>3DV 2026 (Best Paper Finalist)</b>
 </p>
 '
 citation: '
