@@ -13,7 +13,7 @@ From loco-motion to dextrous manipulation, humanoid robots have made remarkable 
 '
 venue: '
 <p>
-Zhenyu Zhao, Hongyi Jing, Xiawei Liu, Jiageng Mao, Abha Jha, Hanwen Yang, Rong Xue, Sergey Zakharor, Vitor Guizilini, Yue Wang
+Zhenyu Zhao, Hongyi Jing, Xiawei Liu, Jiageng Mao, Abha Jha, Hanwen Yang, Rong Xue, Sergey Zakharov, Vitor Guizilini, Yue Wang
 <br>
 <b>ICRA 2026</b>
 </p>

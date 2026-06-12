@@ -1,6 +1,6 @@
 @misc{tri_humev,
       title={Humanoid Everyday: A Comprehensive Robotic Dataset for Open-World Humanoid Manipulation}, 
-      author={Zhenyu Zhao and Hongyi Jing and Xiawei Liu and Jiageng Mao and Abha Jha and Hanwen Yang and Rong Xue and Sergey Zakharor and Vitor Guizilini and Yue Wang},
+      author={Zhenyu Zhao and Hongyi Jing and Xiawei Liu and Jiageng Mao and Abha Jha and Hanwen Yang and Rong Xue and Sergey Zakharov and Vitor Guizilini and Yue Wang},
       year={2025},
       eprint={2510.08807},
       archivePrefix={arXiv},
