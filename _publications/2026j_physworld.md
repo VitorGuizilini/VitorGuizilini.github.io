@@ -14,7 +14,7 @@ venue: '
 <p>
 Jiageng Mao, Sicheng He, Hao-Ning Wu, Yang You, Shuyang Sun, Zhicheng Wang, Yanan Bao, Huizhong Chen, Leonidas Guibas, Vitor Guizilini, Howard Zhou, Yue Wang
 <br>
-<b>arXiv 2025</b>
+<b>ICRA 2026</b>
 </p>
 '
 links: '
