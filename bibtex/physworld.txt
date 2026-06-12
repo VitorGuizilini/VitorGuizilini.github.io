@@ -1,0 +1,9 @@
+@misc{tri_physworld,
+      title={Robot Learning from a Physical World Model}, 
+      author={Jiageng Mao and Sicheng He and Hao-Ning Wu and Yang You and Shuyang Sun and Zhicheng Wang and Yanan Bao and Huizhong Chen and Leonidas Guibas and Vitor Guizilini and Howard Zhou and Yue Wang},
+      year={2025},
+      eprint={2511.07416},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO},
+      url={https://arxiv.org/abs/2511.07416}, 
+}

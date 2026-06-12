@@ -17,22 +17,12 @@ Jiageng Mao, Sicheng He, Hao-Ning Wu, Yang You, Shuyang Sun, Zhicheng Wang, Yana
 <b>arXiv 2025</b>
 </p>
 '
-citation: '
-@misc{tri_physworld,
-      title={Robot Learning from a Physical World Model}, 
-      author={Jiageng Mao and Sicheng He and Hao-Ning Wu and Yang You and Shuyang Sun and Zhicheng Wang and Yanan Bao and Huizhong Chen and Leonidas Guibas and Vitor Guizilini and Howard Zhou and Yue Wang},
-      year={2025},
-      eprint={2511.07416},
-      archivePrefix={arXiv},
-      primaryClass={cs.RO},
-      url={https://arxiv.org/abs/2511.07416}, 
-}
-'
-
 links: '
 <a href="https://arxiv.org/abs/2511.07416">
 <img style="margin-right:10px" align="right" width="40" src="/images/icons/arxiv.png"></a>
 <a href="https://jiageng.me/PhysWorld_Web/">
 <img style="margin-right:10px" align="right" width="40" src="/images/icons/project.png"></a>
+<a href="/bibtex/physworld.txt">
+<img style="margin-right:10px" align="right" width="40" src="/images/icons/bibtex.png"></a>
 '
 ---
