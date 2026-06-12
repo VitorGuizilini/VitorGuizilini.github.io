@@ -34,5 +34,7 @@ links: '
 <img style="margin-right:10px" align="right" width="40" src="/images/icons/arxiv.png"></a>
 <a href="https://tri-ml.github.io/AnyView/">
 <img style="margin-right:10px" align="right" width="40" src="/images/icons/project.png"></a>
+<a href="/bibtex/anyview.txt">
+<img style="margin-right:10px" align="right" width="40" src="/images/icons/bibtex.png"></a>
 '
 ---
