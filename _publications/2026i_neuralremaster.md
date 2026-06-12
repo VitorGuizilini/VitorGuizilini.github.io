@@ -30,7 +30,7 @@ citation: '
 '
 
 links: '
-<a href="https://arxiv.org/abs/2512.05106>
+<a href="https://arxiv.org/abs/2512.05106">
 <img style="margin-right:10px" align="right" width="40" src="/images/icons/arxiv.png"></a>
 <a href="https://yuzeng-at-tri.github.io/ppd-page/">
 <img style="margin-right:10px" align="right" width="40" src="/images/icons/project.png"></a>

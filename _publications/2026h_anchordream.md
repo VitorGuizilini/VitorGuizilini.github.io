@@ -27,7 +27,7 @@ citation: '
 '
 
 links: '
-<a href="https://arxiv.org/abs/2512.11797>
+<a href="https://arxiv.org/abs/2512.11797">
 <img style="margin-right:10px" align="right" width="40" src="/images/icons/arxiv.png"></a>
 <a href="https://junjieye.com/AnchorDream/">
 <img style="margin-right:10px" align="right" width="40" src="/images/icons/project.png"></a>

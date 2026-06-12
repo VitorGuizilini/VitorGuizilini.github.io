@@ -30,7 +30,7 @@ citation: '
 '
 
 links: '
-<a href="https://arxiv.org/abs/2511.07416>
+<a href="https://arxiv.org/abs/2511.07416">
 <img style="margin-right:10px" align="right" width="40" src="/images/icons/arxiv.png"></a>
 <a href="https://jiageng.me/PhysWorld_Web/">
 <img style="margin-right:10px" align="right" width="40" src="/images/icons/project.png"></a>
