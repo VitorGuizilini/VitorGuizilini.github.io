@@ -9,6 +9,7 @@ excerpt: '<p align=justify><a style="text-decoration:none; color:#000000; align:
 Standard diffusion corrupts data using Gaussian noise whose Fourier coefficients have random magnitudes and random phases. While effective for unconditional or text-to-image generation, corrupting phase components destroys spatial structure, making it ill-suited for tasks requiring geometric consistency, such as re-rendering, simulation enhancement, and image-to-image translation. We introduce Phase-Preserving Diffusion (\phi-PD), a model-agnostic reformulation of the diffusion process that preserves input phase while randomizing magnitude, enabling structure-aligned generation without architectural changes or additional parameters. We further propose Frequency-Selective Structured (FSS) noise, which provides continuous control over structural rigidity via a single frequency-cutoff parameter. \phi-PD adds no inference-time cost and is compatible with any diffusion model for images or videos. Across photorealistic and stylized re-rendering, as well as sim-to-real enhancement for driving planners, \phi-PD produces controllable, spatially aligned results. When applied to the CARLA simulator, \phi-PD significantly improves sim-to-real planner transfer performance. The method is complementary to existing conditioning approaches and broadly applicable to image-to-image and video-to-video generation.
 </a></p>
 <p><img src="/images/publications/neuralremaster.png" align="right" width="100%" style="margin:0 0 20px 0"></p>
+<p><img src="/images/icons/empty.png"></p>
 '
 venue: '
 <p>

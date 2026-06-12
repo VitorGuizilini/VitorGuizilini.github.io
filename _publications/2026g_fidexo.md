@@ -11,6 +11,7 @@ Our key insight is twofold. First, we cast robot state estimation as 6D pose est
 This design yields robust camera-robot extrinsics, per-link SE(3) poses, and joint-angle state from a single image, enabling robust state estimation even on unplugged robots. Demonstrated on a low-cost robot arm, fiducial exoskeletons substantially simplify setup while improving calibration, state accuracy, and downstream 3D control performance. We release code and printable hardware designs to enable further algorithm-hardware co-design.
 </a></p>
 <p><img src="/images/publications/fidexo.png" align="right" width="100%" style="margin:0 0 20px 0"></p>
+<p><img src="/images/icons/empty.png"></p>
 '
 venue: '
 <p>

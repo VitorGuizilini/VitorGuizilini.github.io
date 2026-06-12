@@ -9,6 +9,7 @@ excerpt: '<p align=justify><a style="text-decoration:none; color:#000000; align:
 We propose FastMap, a new global structure from motion method focused on speed and simplicity. Previous methods like COLMAP and GLOMAP are able to estimate high-precision camera poses, but suffer from poor scalability when the number of matched keypoint pairs becomes large, mainly due to the time-consuming process of second-order Gauss-Newton optimization. Instead, we design our method solely based on first-order optimizers. To obtain maximal speedup, we identify and eliminate two key performance bottlenecks: computational complexity and the kernel implementation of each optimization step. Through extensive experiments, we show that FastMap is up to 10 times faster than COLMAP and GLOMAP with GPU acceleration and achieves comparable pose accuracy.
 </a></p>
 <p><img src="/images/publications/fastmap.png" align="right" width="100%" style="margin:0 0 20px 0"></p>
+<p><img src="/images/icons/empty.png"></p>
 '
 venue: '
 <p>
