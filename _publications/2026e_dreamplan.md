@@ -17,22 +17,12 @@ Emily Yue-Ting Jia, Weiduo Yuan, Tianheng Shi, Vitor Guizilini, Jiageng Mao, Yue
 <b>arXiv 2026</b>
 </p>
 '
-citation: '
-@misc{tri_dreamplan,
-      title={DreamPlan: Efficient Reinforcement Fine-Tuning of Vision-Language Planners via Video World Models}, 
-      author={Emily Yue-Ting Jia and Weiduo Yuan and Tianheng Shi and Vitor Guizilini and Jiageng Mao and Yue Wang},
-      year={2026},
-      eprint={2603.16860},
-      archivePrefix={arXiv},
-      primaryClass={cs.RO},
-      url={https://arxiv.org/abs/2603.16860}, 
-}
-'
-
 links: '
 <a href="http://arxiv.org/abs/2603.16860">
 <img style="margin-right:10px" align="right" width="40" src="/images/icons/arxiv.png"></a>
 <a href="https://psi-lab.ai/DreamPlan/">
 <img style="margin-right:10px" align="right" width="40" src="/images/icons/project.png"></a>
+<a href="/bibtex/dreamplan.txt">
+<img style="margin-right:10px" align="right" width="40" src="/images/icons/bibtex.png"></a>
 '
 ---

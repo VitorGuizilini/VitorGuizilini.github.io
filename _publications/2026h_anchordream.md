@@ -17,19 +17,12 @@ Junjie Ye, Rong Xue, Basile Van Hoorick, Pavel Tokmakov, Muhammad Zubair Irshad,
 <b>ICRA 2026</b>
 </p>
 '
-citation: '
-@inproceedings{tri_anchordream,
-  title={AnchorDream: Repurposing Video Diffusion for Embodiment-Aware Robot Data Synthesis},
-  author={Ye, Junjie and Xue, Rong and Van Hoorick, Basile and Tokmakov, Pavel and Irshad, Muhammad Zubair and Wang, Yue and Guizilini, Vitor},
-  booktitle={IEEE International Conference on Robotics and Automation (ICRA)},
-  year={2026}
-}
-'
-
 links: '
 <a href="https://arxiv.org/abs/2512.11797">
 <img style="margin-right:10px" align="right" width="40" src="/images/icons/arxiv.png"></a>
 <a href="https://junjieye.com/AnchorDream/">
 <img style="margin-right:10px" align="right" width="40" src="/images/icons/project.png"></a>
+<a href="/bibtex/anchordream.txt">
+<img style="margin-right:10px" align="right" width="40" src="/images/icons/bibtex.png"></a>
 '
 ---

@@ -19,22 +19,12 @@ Cameron Smith, Basile Van Hoorick, Vitor Guizilini, Yue Wang
 <b>arXiv 2026</b>
 </p>
 '
-citation: '
-@misc{tri_fidexo,
-      title={Fiducial Exoskeletons: Image-Centric Robot State Estimation}, 
-      author={Cameron Smith and Basile Van Hoorick and Vitor Guizilini and Yue Wang},
-      year={2026},
-      eprint={2601.08034},
-      archivePrefix={arXiv},
-      primaryClass={cs.RO},
-      url={https://arxiv.org/abs/2601.08034}, 
-}
-'
-
 links: '
 <a href="https://arxiv.org/abs/2601.08034">
 <img style="margin-right:10px" align="right" width="40" src="/images/icons/arxiv.png"></a>
 <a href="https://psi-lab.ai/DreamPlan/">
 <img style="margin-right:10px" align="right" width="40" src="/images/icons/project.png"></a>
+<a href="/bibtex/fidexo.txt">
+<img style="margin-right:10px" align="right" width="40" src="/images/icons/bibtex.png"></a>
 '
 ---

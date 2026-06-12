@@ -17,22 +17,12 @@ Yu Zeng, Charles Ochoa, Mingyuan Zhou, Vishal M. Patel, Vitor Guizilini, Rowan M
 <b>arXiv 2025</b>
 </p>
 '
-citation: '
-@misc{zeng2026neuralremasterphasepreservingdiffusionstructurealigned,
-      title={NeuralRemaster: Phase-Preserving Diffusion for Structure-Aligned Generation}, 
-      author={Yu Zeng and Charles Ochoa and Mingyuan Zhou and Vishal M. Patel and Vitor Guizilini and Rowan McAllister},
-      year={2026},
-      eprint={2512.05106},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2512.05106}, 
-}
-'
-
 links: '
 <a href="https://arxiv.org/abs/2512.05106">
 <img style="margin-right:10px" align="right" width="40" src="/images/icons/arxiv.png"></a>
 <a href="https://yuzeng-at-tri.github.io/ppd-page/">
 <img style="margin-right:10px" align="right" width="40" src="/images/icons/project.png"></a>
+<a href="/bibtex/neuralremaster.txt">
+<img style="margin-right:10px" align="right" width="40" src="/images/icons/bibtex.png"></a>
 '
 ---

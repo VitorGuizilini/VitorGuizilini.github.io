@@ -17,20 +17,10 @@ Jiajun Xu, Jiageng Mao, Ang Qi, Weiduo Yuan, Alexander Romanus, Helen Xia, Vitor
 <b>arXiv 2026</b>
 </p>
 '
-citation: '
-@misc{tri_fuzzingrl,
-      title={FuzzingRL: Reinforcement Fuzz-Testing for Revealing VLM Failures}, 
-      author={Jiajun Xu and Jiageng Mao and Ang Qi and Weiduo Yuan and Alexander Romanus and Helen Xia and Vitor Campagnolo Guizilini and Yue Wang},
-      year={2026},
-      eprint={2603.06600},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2603.06600}, 
-}
-'
-
 links: '
 <a href="https://arxiv.org/abs/2603.06600">
 <img style="margin-right:10px" align="right" width="40" src="/images/icons/arxiv.png"></a>
+<a href="/bibtex/fuzzingrl.txt">
+<img style="margin-right:10px" align="right" width="40" src="/images/icons/bibtex.png"></a>
 '
 ---

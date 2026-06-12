@@ -1,0 +1,9 @@
+@misc{tri_lrm,
+      title={Large Reward Models: Generalizable Online Robot Reward Generation with Vision-Language Models}, 
+      author={Yanru Wu and Weiduo Yuan and Ang Qi and Vitor Guizilini and Jiageng Mao and Yue Wang},
+      year={2026},
+      eprint={2603.16065},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO},
+      url={https://arxiv.org/abs/2603.16065}, 
+}

@@ -17,22 +17,12 @@ Jiahao Li, Haochen Wang, Muhammad Zubair Irshad, Igor Vasiljevic, Matthew R. Wal
 <b>3DV 2026 (Best Paper Finalist)</b>
 </p>
 '
-citation: '
-@misc{tri_fastmap,
-      title={FastMap: Revisiting Structure from Motion through First-Order Optimization}, 
-      author={Jiahao Li and Haochen Wang and Muhammad Zubair Irshad and Igor Vasiljevic and Matthew R. Walter and Vitor Campagnolo Guizilini and Greg Shakhnarovich},
-      year={2025},
-      eprint={2505.04612},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2505.04612}, 
-}
-'
-
 links: '
 <a href="https://arxiv.org/abs/2505.04612">
 <img style="margin-right:10px" align="right" width="40" src="/images/icons/arxiv.png"></a>
 <a href="https://jiahao.ai/fastmap/">
 <img style="margin-right:10px" align="right" width="40" src="/images/icons/project.png"></a>
+<a href="/bibtex/fastmap.txt">
+<img style="margin-right:10px" align="right" width="40" src="/images/icons/bibtex.png"></a>
 '
 ---

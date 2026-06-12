@@ -1,0 +1,9 @@
+@misc{tri_fidexo,
+      title={Fiducial Exoskeletons: Image-Centric Robot State Estimation}, 
+      author={Cameron Smith and Basile Van Hoorick and Vitor Guizilini and Yue Wang},
+      year={2026},
+      eprint={2601.08034},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO},
+      url={https://arxiv.org/abs/2601.08034}, 
+}
