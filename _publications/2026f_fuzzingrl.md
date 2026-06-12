@@ -13,6 +13,8 @@ Vision Language Models (VLMs) are prone to errors, and identifying where these e
 venue: '
 <p>
 Jiajun Xu, Jiageng Mao, Ang Qi, Weiduo Yuan, Alexander Romanus, Helen Xia, Vitor Campagnolo Guizilini, Yue Wang
+<a href="https://arxiv.org/abs/2603.06600">
+<img style="margin-right:10px" align="right" width="40" src="/images/icons/arxiv.png"></a>
 <br>
 <b>arXiv 2026</b>
 </p>
@@ -30,13 +32,7 @@ citation: '
 '
 
 links: '
-<p>
 <a href="https://arxiv.org/abs/2603.06600">
 <img style="margin-right:10px" align="right" width="40" src="/images/icons/arxiv.png"></a>
-<\p>
-<p>
-<a href="https://arxiv.org/abs/2603.06600">
-<img style="margin-right:10px" align="right" width="40" src="/images/icons/arxiv.png"></a>
-<p>
 '
 ---
