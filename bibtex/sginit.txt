@@ -1,0 +1,6 @@
+@article{tri_sginit,
+        title={Self-Supervised Geometry-Guided Initialization for Robust Monocular Visual Odometry}, 
+        author={Takayuki Kanai and Igor Vasiljevic and Vitor Guizilini and Kazuhiro Shintani},
+        year={2024},
+        journal={arXiv},
+        }

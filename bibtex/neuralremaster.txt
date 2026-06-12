@@ -1,4 +1,4 @@
-@misc{zeng2026neuralremasterphasepreservingdiffusionstructurealigned,
+@misc{tri_neuralremaster,
       title={NeuralRemaster: Phase-Preserving Diffusion for Structure-Aligned Generation}, 
       author={Yu Zeng and Charles Ochoa and Mingyuan Zhou and Vishal M. Patel and Vitor Guizilini and Rowan McAllister},
       year={2026},
