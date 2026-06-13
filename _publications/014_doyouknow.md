@@ -15,7 +15,7 @@ venue: '
 <p>
 Tianchong Jiang, Jingtian Ji, Xiangshan Tan, Jiading Fang, Anand Bhattad, Vitor Guizilini, Matthew R. Walter
 <br>
-<b>ICRA 2026 (Best Paper: Robot Learning)</b>
+<b>ICRA 2026 (Best Paper Award)</b>
 </p>
 '
 links: '

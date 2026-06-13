@@ -1,0 +1,6 @@
+@inproceedings{tri_define,
+  author = {Vitor Guizilini and Igor Vasiljevic and Jiading Fang and Rares Ambrus and Greg Shakhnarovich and Matthew Walter and  Adrien Gaidon},
+  title = {Depth Field Networks for Generalizable Multi-view Scene Representation},
+  booktitle = {European Conference on Computer Vision (ECCV)},
+  year = {2022},
+}

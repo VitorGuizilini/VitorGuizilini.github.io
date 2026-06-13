@@ -1,0 +1,6 @@
+@inproceedings{tri_delira,
+  author = {Vitor Guizilini and Igor Vasiljevic and Jiading Fang and Rares Ambrus and Sergey Zakharov and Vincent Sitzmann and Adrien Gaidon},
+  title = {DeLiRa: Self-Supervised Depth, Light, and Radiance Fields},
+  booktitle = {Proceedings of the International Conference on Computer Vision (ICCV)},
+  year = {2023}
+}
