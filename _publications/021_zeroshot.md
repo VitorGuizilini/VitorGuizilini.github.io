@@ -21,6 +21,8 @@ Shun Iwase, Katherine Liu, Vitor Guizilini, Adrien Gaidon, Kris Kitani, Rares Am
 links: '
 <a href="https://arxiv.org/abs/2403.14628">
 <img style="margin-right:10px" align="right" width="40" src="/images/icons/arxiv.png"></a>
+<a href="https://sh8.io/#/oct_mae">
+<img style="margin-right:10px" align="right" width="40" src="/images/icons/project.png"></a>
 <a href="/bibtex/zeroshot.txt">
 <img style="margin-right:10px" align="right" width="40" src="/images/icons/bibtex.png"></a>
 '

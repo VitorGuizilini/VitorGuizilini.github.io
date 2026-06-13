@@ -21,6 +21,8 @@ Artem Lukoianov, Haitz Borde, Kristjan Greenewald, Vitor  Guizilini, Timur Bagau
 links: '
 <a href="https://arxiv.org/abs/2405.15891">
 <img style="margin-right:10px" align="right" width="40" src="/images/icons/arxiv.png"></a>
+<a href="https://lukoianov.com/sdi/">
+<img style="margin-right:10px" align="right" width="40" src="/images/icons/project.png"></a>
 <a href="/bibtex/reparameterized.txt">
 <img style="margin-right:10px" align="right" width="40" src="/images/icons/bibtex.png"></a>
 '
