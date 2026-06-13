@@ -21,6 +21,8 @@ Jiahao Shao, Yuanbo Yang, Hongyu Zhou, Youmin Zhang, Yujun Shen, Vitor Guizilini
 links: '
 <a href="https://arxiv.org/abs/2406.01493">
 <img style="margin-right:10px" align="right" width="40" src="/images/icons/arxiv.png"></a>
+<a href="https://xdimlab.github.io/ChronoDepth/">
+<img style="margin-right:10px" align="right" width="40" src="/images/icons/github.png"></a>
 <a href="/bibtex/chronodepth.txt">
 <img style="margin-right:10px" align="right" width="40" src="/images/icons/bibtex.png"></a>
 '

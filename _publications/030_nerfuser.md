@@ -15,14 +15,14 @@ venue: '
 <p>
 Jiading Fang, Shengjie Lin, Igor Vasiljevic, Vitor Guizilini, Rares Ambrus, Adrien Gaidon, Gregory Shakhnarovich, Matthew R. Walter
 <br>
-<b>arXiv 2023</b>
+<b>ISRR 2024</b>
 </p>
 '
 links: '
 <a href="https://arxiv.org/abs/2305.13307">
 <img style="margin-right:10px" align="right" width="40" src="/images/icons/arxiv.png"></a>
 <a href="https://github.com/ripl/nerfuser">
-<img style="margin-right:10px" align="right" width="40" src="/images/icons/project.png"></a>
+<img style="margin-right:10px" align="right" width="40" src="/images/icons/github.png"></a>
 <a href="/bibtex/nerfuser.txt">
 <img style="margin-right:10px" align="right" width="40" src="/images/icons/bibtex.png"></a>
 '
