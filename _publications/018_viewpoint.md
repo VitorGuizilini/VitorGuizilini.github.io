@@ -22,5 +22,7 @@ links: '
 <img style="margin-right:10px" align="right" width="40" src="/images/arxiv.png"></a>
 <a href="https://github.com/TRI-ML/VEDet">
 <img style="margin-right:10px" align="right" width="40" src="/images/github.png"></a>
+<a href="/bibtex/viewpoint.txt">
+<img style="margin-right:10px" align="right" width="40" src="/images/icons/bibtex.png"></a>
 '
 ---
