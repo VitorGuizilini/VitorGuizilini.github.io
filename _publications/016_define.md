@@ -20,9 +20,9 @@ Vitor Guizilini, Igor Vasiljevic, Jiading Fang, Rares Ambrus, Greg Shakhnarovich
 '
 links: '
 <a href="https://arxiv.org/abs/2207.14287">
-<img style="margin-right:10px" align="right" width="40" src="/images/arxiv.png"></a>
+<img style="margin-right:10px" align="right" width="40" src="/images/icons/arxiv.png"></a>
 <a href="https://github.com/TRI-ML/vidar">
-<img style="margin-right:10px" align="right" width="40" src="/images/github.png"></a>
+<img style="margin-right:10px" align="right" width="40" src="/images/icons/github.png"></a>
 <a href="/bibtex/massive.txt">
 <img style="margin-right:10px" align="right" width="40" src="/images/icons/bibtex.png"></a>
 '

@@ -19,10 +19,10 @@ Vitor Guizilini, Igor Vasiljevic, Jiading Fang, Rares Ambrus, Sergey Zakharov, V
 '
 links: '
 <a href="https://arxiv.org/abs/2304.02797">
-<img style="margin-right:10px" align="right" width="40" src="/images/arxiv.png"></a>
+<img style="margin-right:10px" align="right" width="40" src="/images/icons/arxiv.png"></a>
 <a href="https://github.com/TRI-ML/vidar">
-<img style="margin-right:10px" align="right" width="40" src="/images/github.png"></a>
+<img style="margin-right:10px" align="right" width="40" src="/images/icons/github.png"></a>
 <a href="https://www.youtube.com/watch?v=_tF692t0I9c">
-<img style="margin-right:10px" align="right" width="40" src="/images/music.png"></a>
+<img style="margin-right:10px" align="right" width="40" src="/images/icons/music.png"></a>
 '
 ---
