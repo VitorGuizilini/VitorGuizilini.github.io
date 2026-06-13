@@ -1,8 +1,6 @@
 ---
 title: '
-<a href="https://arxiv.org/abs/2503.07739" style="text-decoration:none;color:#000000;text-align:justify;"> 
 SIRE: SE(3) Intrinsic Rigidity Embeddings
-</a>
 '
 project: '
 '
