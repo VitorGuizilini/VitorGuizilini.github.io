@@ -23,7 +23,7 @@ links: '
 <img style="margin-right:10px" align="right" width="40" src="/images/icons/arxiv.png"></a>
 <a href="https://github.com/TRI-ML/vidar">
 <img style="margin-right:10px" align="right" width="40" src="/images/icons/github.png"></a>
-<a href="/bibtex/massive.txt">
+<a href="/bibtex/define.txt">
 <img style="margin-right:10px" align="right" width="40" src="/images/icons/bibtex.png"></a>
 '
 ---
