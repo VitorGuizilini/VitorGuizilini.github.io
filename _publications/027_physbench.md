@@ -20,7 +20,7 @@ Wei Chow, Jiageng Mao, Boyi Li, Daniel Seita, Vitor Guizilini, Yue Wang
 '
 links: '
 <a href="https://arxiv.org/abs/2501.16411">
-<img style="margin-right:10px" align="right" width="40" src="/images/arxiv.png"></a>
+<img style="margin-right:10px" align="right" width="40" src="/images/icons/arxiv.png"></a>
 <a href="https://physbench.github.io/">
 <img style="margin-right:10px" align="right" width="40" src="/images/icons/project.png"></a>
 <a href="/bibtex/physbench.txt">

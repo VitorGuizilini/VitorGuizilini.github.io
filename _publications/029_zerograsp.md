@@ -22,7 +22,7 @@ Shun Iwase, Zubair Irshad, Katherine Liu, Vitor Guizilini, Robert Lee, Takuya Ik
 '
 links: '
 <a href="https://arxiv.org/abs/2504.10857">
-<img style="margin-right:10px" align="right" width="40" src="/images/arxiv.png"></a>
+<img style="margin-right:10px" align="right" width="40" src="/images/icons/arxiv.png"></a>
 <a href="https://sh8.io/#/zerograsp">
 <img style="margin-right:10px" align="right" width="40" src="/images/icons/project.png"></a>
 <a href="/bibtex/zerograsp.txt">
