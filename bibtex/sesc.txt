@@ -1,0 +1,6 @@
+@inproceedings{tri_sesc,
+    author = {Takayuki Kanai and Igor Vasiljevic and Vitor    Guizilini and Adrien Gaidon and Rares Ambrus},
+    title = {Robust Self-Supervised Extrinsic Self-Calibration},
+    booktitle = {The IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+    year = {2023}
+}

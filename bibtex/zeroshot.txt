@@ -1,0 +1,8 @@
+@misc{tri_zeroshot,
+      title={Zero-Shot Multi-Object Shape Completion}, 
+      author={Shun Iwase and Katherine Liu and Vitor Guizilini and Adrien Gaidon and Kris Kitani and Rares Ambrus and Sergey Zakharov},
+      eprint={2403.14628},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+      year={2024},
+}

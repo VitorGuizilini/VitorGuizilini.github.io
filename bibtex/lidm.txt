@@ -1,0 +1,6 @@
+@misc{tri_lidm,
+      author={Haoxi Ran and Vitor Guizilini and Yue Wang},
+      title={Towards Realistic Scene Generation with LiDAR Diffusion Models}, 
+      booktitle = {Proceedings of the International Conference on Computer Vision and Pattern Recognition (CVPR)},
+      year={2024}
+}
