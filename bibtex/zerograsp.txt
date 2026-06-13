@@ -1,0 +1,6 @@
+@InProceedings{tri_zerograsp,
+  author = {Iwase, Shun and, Irshad, Zubair and Liu, Katherine and Guizilini, Vitor and Lee, Robert and Ikeda, Takuya and Amma, Ayako and Nishiwaki, Koichi and Kitani, Kris and Ambruș, Rareș and Zakharov, Sergey},
+  title = {ZeroGrasp: Zero-Shot Shape Reconstruction Enabled Robotic Grasping},
+  booktitle = {CVPR},
+  year = {2025}
+}

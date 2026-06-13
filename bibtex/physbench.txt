@@ -1,0 +1,6 @@
+@inproceedings{tri_physbench,
+      author={Wei Chow and Jiageng Mao and Boyi Li and Daniel Seita and Vitor Guizilini and Yue Wang},
+      title={PhysBench: Benchmarking and Enhancing Vision-Language Models for Physical World Understanding}, 
+      booktitle = {Proceedings of the International Conference on Learning Representations (ICLR)},
+      year={2025}
+}
