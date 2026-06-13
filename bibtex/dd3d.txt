@@ -1,0 +1,7 @@
+@inproceedings{tri_dd3d,
+  author = {Dennis Park and Rares Ambrus and Vitor Guizilini and Jie Li and Adrien Gaidon},
+  title = {Is Pseudo-Lidar needed for Monocular 3D Object detection?},
+  booktitle = {IEEE/CVF International Conference on Computer Vision (ICCV)},
+  primaryClass = {cs.CV},
+  year = {2021},
+}

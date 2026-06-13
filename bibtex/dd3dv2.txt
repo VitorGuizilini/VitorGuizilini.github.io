@@ -1,0 +1,9 @@
+@misc{tri_dd3dv2,
+      title={Depth Is All You Need for Monocular 3D Detection}, 
+      author={Dennis Park and Jie Li and Dian Chen and Vitor Guizilini and Adrien Gaidon},
+      year={2022},
+      eprint={2210.02493},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2210.02493}, 
+}
