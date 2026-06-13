@@ -15,7 +15,7 @@ venue: '
 <p>
 Jiading Fang, Shengjie Lin, Igor Vasiljevic, Vitor Guizilini, Rares Ambrus, Adrien Gaidon, Gregory Shakhnarovich, Matthew R. Walter
 <br>
-# <b>arXiv 2023</b>
+<b>arXiv 2023</b>
 </p>
 '
 links: '
