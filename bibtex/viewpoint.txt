@@ -1,6 +1,0 @@
-@inproceedings{tri_viewpoint,
-  title={Viewpoint Equivariance for Multi-View 3D Object Detection},
-  author={Chen, Dian and Li, Jie and Guizilini, Vitor and Ambrus, Rares and Gaidon, Adrien},
-  booktitle = {Proceedings of the International Conference on Computer Vision and Pattern Recognition (CVPR)},
-  year={2023}
-}
