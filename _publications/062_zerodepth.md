@@ -18,15 +18,6 @@ Vitor Guizilini, Igor Vasiljevic, Dian Chen, Rares Ambrus, Adrien Gaidon
 <b>ICCV 2023</b>
 </p>
 '
-citation: '
-@inproceedings{tri-zerodepth,
-  title={Towards Zero-Shot Scale-Aware Monocular Depth Estimation},
-  author={Guizilini, Vitor and Vasiljevic, Igor and Chen, Dian and Ambrus, Rares and Gaidon, Adrien},
-  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
-  month={October},
-  year={2023},
-}
-'
 links: '
 <a href="https://arxiv.org/abs/2306.17253">
 <img style="margin-right:10px" align="right" width="40" src="/images/icons/arxiv.png"></a>

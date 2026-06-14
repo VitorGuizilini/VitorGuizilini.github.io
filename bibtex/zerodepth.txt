@@ -1,0 +1,7 @@
+@inproceedings{tri_zerodepth,
+  title={Towards Zero-Shot Scale-Aware Monocular Depth Estimation},
+  author={Guizilini, Vitor and Vasiljevic, Igor and Chen, Dian and Ambrus, Rares and Gaidon, Adrien},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+  month={October},
+  year={2023},
+}
